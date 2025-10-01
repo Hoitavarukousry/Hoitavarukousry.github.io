@@ -1,0 +1,40 @@
+
+:root{
+    font-size: 10px;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+.image-container{
+    position: relative;
+    height: 100%;
+    width: auto;
+}
+
+.image { 
+    position: relative;
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+
+.sidebar{
+    font-size: 1.9vw;
+    position: absolute;
+    width: fit-content;
+    top: 80vw;
+    left: 2vw;
+}
+
+#linkki1{
+    top: 1%
+}
+
+#linkki2{
+    top: 2%;
+}
+
+
