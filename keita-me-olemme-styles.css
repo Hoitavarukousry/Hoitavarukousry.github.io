@@ -1,17 +1,13 @@
 
-html{
+html body{
     height: 100%;
     margin: 0;
     background-color: #f4efec;
     font-weight: lighter;
     font-size: 12px;
     color-scheme: light;
-}
-
-body{
     min-height: 100vh;
 }
-
 
 #site-flex{
     display: flex;
@@ -121,4 +117,5 @@ img{
     width: 100%;
     height: auto;
 }
+
 
