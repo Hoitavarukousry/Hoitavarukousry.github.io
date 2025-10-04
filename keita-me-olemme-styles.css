@@ -6,7 +6,7 @@ html{
 }
 
 
-.site-flex{
+#site-flex{
     display: flex;
     flex-direction: column;
 }
@@ -32,7 +32,7 @@ html{
     position:relative;
     margin-top: 30px;
     width: 80%;
-    margin-left: 5%;
+    margin-left: 10%;
     height: auto;
 }
 
@@ -99,19 +99,17 @@ img{
 
 .footer-container{
     order: 2;
-    position: relative;
+    position: static;
     margin: 50px auto;
     width: 60vw;
     clear: both;
+    margin-left: 1vw;
     margin-top: 10%;
     margin-bottom: 10%;
 }
 
 .footer-img{
-    z-index: -1;
     display: block;
     width: 100%;
     height: auto;
-    left: -17%;
-
 }
