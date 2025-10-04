@@ -1,7 +1,14 @@
 html::before{
-    background-color: #f4efec;
     height: 100%;
     margin: 0;
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #f4efec;
+    z-index: -1;
 }
 
 html body{
@@ -122,6 +129,7 @@ img{
     width: 100%;
     height: auto;
 }
+
 
 
 
