@@ -60,8 +60,8 @@ html{
 }
 
 .content{
-    order: 1;
-    display: block;
+    order: 2;
+    display: static;
     top: -3vw;
     width: 60%;
     left: 39%;
@@ -104,8 +104,8 @@ img{
     width: 60vw;
     clear: both;
     margin-left: 1vw;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 15vw;
+    margin-bottom: 10vw;
 }
 
 .footer-img{
