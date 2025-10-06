@@ -47,7 +47,8 @@ address{
     margin-top: 5vh;
     size: 30vw;
     width: 50vw;
-    height: auto;;
-
+    height: auto;
+    justify-content: center;
 }
+
 
